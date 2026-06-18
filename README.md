@@ -11,6 +11,8 @@ A Collection of interesting and elegant code snippets.
 | github_repository_backup | backup github repository for specified github UserID |
 | love_balloon                         | Talk to Her, you love her. Designed by [ndroi](https://github.com/ndroi/JSDrawLove) |
 | spelling_typo_check | check code spelling mistakes and typos automatically |
+| fit_year_daily_track_art.py | python fit_year_daily_track_art.py "D:\fit_files" -y 2025 -o 2025.png -t "2025 IN TRACKS" |
+| fit_year_track_art.py | python fit_year_track_art.py "D:\fit_files" -y 2026  -o 2026.png -t "2026" --size medium |
 
 # Tools
 
