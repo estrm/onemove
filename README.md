@@ -13,6 +13,7 @@ A Collection of interesting and elegant code snippets.
 | spelling_typo_check | check code spelling mistakes and typos automatically |
 | fit_year_daily_track_art.py | python fit_year_daily_track_art.py "D:\fit_files" -y 2025 -o 2025.png -t "2025 IN TRACKS" |
 | fit_year_track_art.py | python fit_year_track_art.py "D:\fit_files" -y 2026  -o 2026.png -t "2026" --size medium |
+| fit_year_track_art_1920x1080.py | python fit_year_track_art_1920x1080.py "D:\fit_files" -o all_year_tracks_1920x1080.png |
 
 # Tools
 
